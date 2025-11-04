@@ -3,7 +3,7 @@ layout: post
 title: "Backpacking Loyalsock/Link Loop"
 date: 2025-10-27
 categories: [Travel, Outdoors]
-tags: [Backpacking, Hiking, State Parks, PA Trails, Loyalsock]
+tags: [Backpacking, Hiking, State Park, Pennsylvania, Loyalsock]
 description: Recap of my trip to Worlds End State Park in Northcentral PA. 
 image: /assets/img/posts/outdoors/loyalsock-trail.jpeg
 ---
