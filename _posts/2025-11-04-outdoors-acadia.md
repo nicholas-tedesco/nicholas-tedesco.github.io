@@ -5,7 +5,7 @@ date: 2025-11-04
 categories: [Travel, Outdoors]
 tags: [Hiking, National Park, Acadia, Maine]
 description: Recap of my trip to Acadia National Park in Maine. 
-image: /assets/img/posts/outdoors/acadia-preview.HEIC
+image: /assets/img/posts/outdoors/acadia-preview.jpeg
 ---
 
 ### Trip Overview
@@ -16,4 +16,6 @@ Back in August (2025), I went on a 4-day camping trip to Acadia National Park in
 
 #### Bar Harbor 
 
-Before heading to our campground, we decided to stop to check out 
+Before heading to our campground, we decided to stop and check out Bar Harbor - a resort town on the same island as Acadia. The town has a cool 
+
+
