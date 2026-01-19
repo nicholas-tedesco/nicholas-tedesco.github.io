@@ -6,6 +6,7 @@ categories: [Chess, Openings]
 tags: [Chess, White Openings, Vienna Game, Vienna Falkbeer, Anderssen Defense, Max Lange Defense, Vienna Gambit] 
 description: Summary of common positions + tactical motifs apparent in the Vienna Game. 
 math: true
+image: /assets/img/posts/chess/vienna-game.jpg
 ---
 
 ## Introduction
