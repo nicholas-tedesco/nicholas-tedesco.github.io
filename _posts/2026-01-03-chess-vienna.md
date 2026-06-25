@@ -2,7 +2,7 @@
 layout: post
 title: "Vienna Game" 
 date: 2026-01-03
-categories: [Chess, Openings]
+categories: [Chess, Opening Theory]
 tags: [Chess, White Openings, Vienna Game, Vienna Falkbeer, Anderssen Defense, Max Lange Defense, Vienna Gambit] 
 description: Summary of common positions + tactical motifs apparent in the Vienna Game. 
 math: true

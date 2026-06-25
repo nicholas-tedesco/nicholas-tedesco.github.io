@@ -2,7 +2,7 @@
 layout: post
 title: "Scandinavian Defense" 
 date: 2026-01-25
-categories: [Chess, Openings]
+categories: [Chess, Opening Theory]
 tags: [Chess, Black Openings, Scandinavian Defense, Scandinavian Main Line, Mieses-Kotrc Variation, Modern Variation, Closed Variation, Advanced Variation] 
 description: Summary of common positions + tactical motifs apparent in the Scandinavian Defense. 
 math: true
